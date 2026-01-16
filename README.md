@@ -1,4 +1,4 @@
-# EF Saudi Arabia – Student Evaluation & NPS Performance Dashboard
+# 📌 EF Saudi Arabia – Student Evaluation & NPS Performance Dashboard
 
 This project is a comprehensive **Evaluation and Net Promoter Score (NPS) analytics dashboard** developed for the **Saudi Arabia operations of EF (Education First)**, a globally recognized English training organization. The dashboard analyzes student feedback collected through structured evaluations and surveys, covering different student types such as **Walk-Ins, Scholarships, and H-Scholarships**.
 
