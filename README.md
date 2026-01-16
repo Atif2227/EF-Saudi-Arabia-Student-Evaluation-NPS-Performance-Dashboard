@@ -6,7 +6,7 @@ The solution consolidates evaluation data across multiple weeks, transforms it u
 
 ![First Page](Screenshots/1.jpg)
 
-**[Click here to view the complete PDF report](Screenshots/Evaluation520Report(NPS).pdf)**
+**[Click here to view the complete PDF report](Screenshots/Evaluation%20Report(NPS).pdf)**
 
 ---
 
