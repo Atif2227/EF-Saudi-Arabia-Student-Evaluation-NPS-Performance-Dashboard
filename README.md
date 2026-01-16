@@ -4,6 +4,10 @@ This project is a comprehensive **Evaluation and Net Promoter Score (NPS) analyt
 
 The solution consolidates evaluation data across multiple weeks, transforms it using **Power Query**, and presents actionable insights through **interactive Power BI visuals**. It enables EF stakeholders to monitor student satisfaction, compare performance across evaluation types, and track trends in service quality, academic delivery, and overall student experience.
 
+![First Page](Screenshots/1.jpg)
+
+![PDF File](Screenshots/Evaluation520Report(NPS).pdf)
+
 ---
 
 ## 🧠 Purpose
