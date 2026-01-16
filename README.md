@@ -61,6 +61,7 @@ The diagram below illustrates how data flows from source systems to the final Po
 
 ## 📸 Screenshots
 
-*All the screenshots and PDFs are in the `Screenshot` folder.*
+*All the screenshots and PDFs are in the [Screenshot](Screenshots) folder.*
+
 
 
