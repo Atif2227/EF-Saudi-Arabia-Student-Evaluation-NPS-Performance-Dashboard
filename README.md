@@ -53,9 +53,9 @@ Overall, the Power BI solution is **more robust, visually effective, and easier 
 
 ## 🔄 Data Flow
 
+The diagram below illustrates how data flows from source systems to the final Power BI dashboard:
 
-
-![Data Flow](Screenshots/Data Flow.jpg)
+![Data Flow](Screenshots/Data%20Flow.jpg)
 
 ---
 
