@@ -82,13 +82,9 @@ The diagram below illustrates how data flows from source systems to the final Po
 
 ## 👤 Consultant
 
-Atif Noorul Hasan <br />
+**Atif Noorul Hasan** <br />
 Healthcare Analytics Consultant <br />
 Business Intelligence | Data Analytics | Dashboard Design <br />
 
 🔗 Website – https://atifdata.com <br />
 ✉️ Email – atif@atifdata.com
-
-
-
-
