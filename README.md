@@ -1,7 +1,19 @@
 # 📌 EF Saudi Arabia – Student Evaluation & NPS Performance Dashboard
 
+**Role:** Senior Data Analyst, Consultant  
+**Domain:** Educational/Institutional Analytics  
+**Objective:** The objective of this project is to provide an automated, interactive Power BI solution that transforms raw student feedback into actionable insights by tracking Net Promoter Scores (NPS) and service quality trends across multiple student categories.
+
+---
 This project is a comprehensive **Evaluation and Net Promoter Score (NPS) analytics dashboard** developed for the **Saudi Arabia operations of EF (Education First)**, a globally recognized English training organization. The dashboard analyzes student feedback collected through structured evaluations and surveys, covering different student types such as **Walk-Ins, Scholarships, and H-Scholarships**.
 ![First Page](Screenshots/1.jpg)
+
+---
+## 🛑 The Business Problem:
+EF Saudi Arabia manages a high volume of student feedback across various programs (Scholarships, Walk-Ins, etc.), totaling over 6,000 participants. Historically, this data was processed manually in Excel, a process prone to human error and significant "insight lag". By the time the weekly NPS was calculated, the opportunity to address student grievances had often passed. The organization needed to eliminate manual bottlenecks to allow staff to focus on improving student satisfaction rather than just measuring it.
+
+## ✔ The Solution:
+An automated Power BI reporting suite that utilizes Power Query and DAX to provide real-time visibility into satisfaction metrics, reducing reporting turnaround time and ensuring data integrity.
 
 The solution consolidates evaluation data across multiple weeks, transforms it using **Power Query**, and presents actionable insights through **interactive Power BI visuals**. It enables EF stakeholders to monitor student satisfaction, compare performance across evaluation types, and track trends in service quality, academic delivery, and overall student experience.
 
